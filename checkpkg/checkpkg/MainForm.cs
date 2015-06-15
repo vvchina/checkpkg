@@ -45,5 +45,9 @@ namespace checkpkg
 		{
 	
 		}
+		void PkgMg_bankLBXSelectedIndexChanged(object sender, EventArgs e)
+		{
+	
+		}
 	}
 }
